@@ -7,6 +7,6 @@ Created multiple websites, check it out in my [Portfolio](https://cis-iis2.templ
 Currently working on a program for biology researches to examine thousands of genomes with other groupmates!<br/>
 
 <!-- GitHub stats from Anurag's Repository -->
-[![Johnny's GitHub stats]https://github-readme-stats.vercel.app/api?username=chocojohnni&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient<br/>
+![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojohnni&theme=ambient_gradient_icons=true)
 
 [(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)]
