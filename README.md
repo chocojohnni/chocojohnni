@@ -8,5 +8,3 @@ Currently working on a program for biology researches to examine thousands of ge
 
 <!-- GitHub stats from Anurag's Repository -->
 ![Johnny's GitHub stats](https://github-readme-stats.vercel.app/api?username=chocojohnni&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient)
-
-[(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient)]
